@@ -1,7 +1,7 @@
 # SSHPLUS 
 Script de gerenciamento SSH
  
-#CRIADOR
+# CRIADOR
 => by: @CRAZY_VPN
 
 # MODDER
