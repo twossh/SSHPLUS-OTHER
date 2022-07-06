@@ -1,8 +1,13 @@
 # SSHPLUS 
 Script de gerenciamento SSH
  
+#CRIADOR
 => by: @CRAZY_VPN
-=> MOD by: @kiritosshxd
-=> RE-MOD by: @twossh :P
+
+# MODDER
+=> by: @kiritosshxd
+
+# RE-MODDER (Cópia da cópia)
+=> by: @twossh :P
 
 #paz
