@@ -1,8 +1,5 @@
-# SSHPLUS 
-Script de gerenciamento SSH
+# SSHPLUS
 
-# RE-MODDER (Cópia da cópia)
-=> by: @twossh :P
 
 # INSTALAR SCRIPT.
 ```
