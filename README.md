@@ -3,10 +3,10 @@
 
 # INSTALAR SCRIPT.
 ```
-apt install wget -y; bash <(wget -qO- https://twossh.github.io/SSHPLUS/ssh-plus)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/twossh/SSHPLUS/main/ssh-plus)
 ```
 
 # ACESSO ROOT.
 ```
-apt install wget -y; bash <(wget -qO- https://twossh.github.io/SSHPLUS/senharoot.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/twossh/SSHPLUS/main/senharoot.sh)
 ```
